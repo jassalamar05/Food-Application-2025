@@ -5,7 +5,7 @@ function Footer()
         return(
             <>
             {/* subscriber */}
-<div className="w-full bg-white pt-20">
+<div className="w-full bg-white pt-24">
   
   {/* SUBSCRIBE CARD */}
   <div className="w-full flex justify-center -mb-24 z-50 relative">
