@@ -10,6 +10,8 @@ function Header() {
   return (
     <>
       {/* TOP BAR */}
+      <h1>hello</h1>
+      <h1>heheaha</h1>
       <div className="flex justify-between bg-orange-600 text-white p-3 px-8 text-sm">
         <div>Welcome To Our Culinary Haven!</div>
 
